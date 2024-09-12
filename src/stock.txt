@@ -1,0 +1,4 @@
+Current Inventory:
+Shoe: Nike Air Force 1, Size: 9.5, Quantity: 1
+Shoe: Nike Air Max 90, Size: 7.0, Quantity: 5
+Shoe: Adidas Gazelle, Size: 8.0, Quantity: 1
